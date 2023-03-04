@@ -1,0 +1,12 @@
+{
+    "modules": [
+        {
+            "name": "MyModule",
+            "id": "1234567890"
+        },
+        {
+            "name": "AnotherModule",
+            "id": "0987654321"
+        }
+    ]
+}
